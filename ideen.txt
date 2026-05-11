@@ -1,0 +1,8 @@
+Ideas Lmao:
+
+Das Profilbild ist nur zu sehen wenn man die Seite öffnet bzw. wenn man ganz oben von der Seite ist.
+Wenn man runterscrollt dann schließt sich quasie der Space zwischen Titel und Navbar.
+Die underline von der Navbar wird genauso breit wie der Screen, die Navigation stretcht sich mit also der Text wird gespreaded quasi.
+ob man juri wende dann noch oben fixiert sieht weiß ich noch nicht.
+man bekommt auf jeden fall einen Pfeil Button der dich mit einem Klick wieder ganz noch oben bringt
+hinter meinem profilbild sollten außerdem noch wolken sein, so nämlich!
