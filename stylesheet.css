@@ -261,6 +261,7 @@ img {
     max-height: 95vh;
     display: block;
     margin: 0px auto;
+    pointer-events: none;
 }
 img+img {
     margin-top: 15px;
